@@ -1,0 +1,12 @@
+{
+  "name": "railway-node-api-starter",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A lightweight, production-minded Node.js HTTP API starter for Railway.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "engines": { "node": ">=20" }
+}
